@@ -5,16 +5,11 @@
 [![Hits](https://hits.sh/github.com/subbb-in.svg?style=for-the-badge&color=e7e7e7&labelColor=d6d4ff)](https://hits.sh/github.com/subbb-in/)
 
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/subbb-in"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/farms/subbb-in"/>
 </a>
 
-  
+
 <!--
 **subbb-in/subbb-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
