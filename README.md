@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcdfb&height=250&text=Moisture's%20GitHub&fontColor=ffffff&fontSize=60" width="100%"/>
 
-[![Hits](https://hits.sh/github.com/subbb-in.svg?style=for-the-badge&color=e7e7e7&labelColor=d6d4ff)](https://hits.sh/github.com/subbb-in/)
+<div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <a href="https://hits.sh/github.com/subbb-in/"><img alt="Hits" src="https://hits.sh/github.com/subbb-in.svg?view=today-total&style=for-the-badge&color=eaeaea&labelColor=dcdcfd"/></a>
+</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/subbb-in" width="100%"/>
+</a>
 
 
 ## 🛠️ TECH STACKS
@@ -55,11 +61,9 @@
 <br><br>
 
 ## 🌐 MOISTURE'S STATS
-
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/subbb-in"/>
+<div>
+<a href="https://solved.ac/shsc2006">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shsc2006" />
 </a>
 
 
